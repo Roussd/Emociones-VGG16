@@ -4,7 +4,7 @@ Este proyecto implementa un modelo de aprendizaje profundo para clasificar emoci
 
 ## Características
 
-- **Entrenamiento:** TensorFlow/Keras con funciones de monitoreo mediante TensorBoard.
+- **Entrenamiento:** TensorFlow/Keras.
 - **Visualización:** Incluye gráficos de precisión, pérdida y matriz de confusión.
 - **Automatización:** Compatible con Docker para una configuración y ejecución sencilla.
 
